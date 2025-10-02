@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **C# and Unity**
 - 💡 My primary focus is on **Performance-focused C++ applications with Qt** and **implementing complex computational algorithms in Python.**
 - 📧 How to reach me **arad.sajjadi@gmail.com**
-- 🔗 View my portfolio **https://aradsj.github.io/aradsj/**
+- 🔗 View my portfolio **[https://aradsj.github.io/aradsj/](https://aradsj.github.io/aradsj/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
